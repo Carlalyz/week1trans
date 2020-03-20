@@ -14,7 +14,7 @@
 * 提供明确的指示
 * 保持内容简洁明了
 
-![Image](https://github.com/LinliMingNewmedia/week1trans/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200320201614.png?raw=true)
+![](week1trans/5FEEF96B-EDEA-440A-A10D-82EC129353C6.png）
 
 ***
 
