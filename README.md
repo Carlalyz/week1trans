@@ -14,7 +14,7 @@
 * 提供明确的指示
 * 保持内容简洁明了
 
-![](week1trans/5FEEF96B-EDEA-440A-A10D-82EC129353C6.png）
+![](/week1trans/5FEEF96B-EDEA-440A-A10D-82EC129353C6.png）
 
 ***
 
